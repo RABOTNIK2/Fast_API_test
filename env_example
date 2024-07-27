@@ -1,0 +1,9 @@
+DB_NAME=slow_less
+DB_USER=slow_less
+DB_PASSWORD=slow_less
+DB_HOST=db
+DB_PORT=5432
+
+POSTGRES_USER=slow_less
+POSTGRES_PASSWORD=slow_less
+POSTGRES_DB=slow_less
